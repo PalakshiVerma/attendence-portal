@@ -234,7 +234,7 @@ ADMIN_PASSWORD=your_secure_password
 # GitHub Sync (Optional)
 # ========================
 GITHUB_TOKEN=ghp_yourPersonalAccessTokenHere
-GITHUB_USERNAME=PalakshiVerma
+GITHUB_USERNAME=yourname
 GITHUB_REPO=attendence-portal
 ```
 
